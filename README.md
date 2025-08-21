@@ -230,13 +230,6 @@ Indices on `last_seen`, `state`, `project_id`, `host_id`, `immutable_until`.
 
 ---
 
-## 19) Licensing & Biz (placeholder)
-
-* Core under **Apache‑2.0** to drive adoption; optional enterprise add‑ons (SAML, DR runbooks, scale‑out UI).
-* Subscription for support, updates, and enterprise features.
-
----
-
 ## 20) Immediate Deliverables (next cut)
 
 * API/OpenAPI seed + proto files.
